@@ -10,6 +10,7 @@ If X₁, …, Xₙ are i.i.d. Exp(1), then E(max((X1,..,Xn))) = Hₙ
 | N    | estimate | error   |
 |------|----------|---------|
 | 10⁶  | 5.18783  | 0.0005  |
+
 Coverage of 95% intervals over 2,000 runs: 95.7%.
 
 
