@@ -17,3 +17,5 @@ Coverage of 95% intervals over 2,000 runs: 95.7%.
 ## Mathematical proof 
 [Adobe Scan 07-Nov-2026_14-16-42.pdf](https://github.com/user-attachments/files/34522955/Adobe.Scan.07-Nov-2026_14-16-42.pdf)
 
+## Full code
+[src/main.cpp](src/main.cpp)
