@@ -1,4 +1,4 @@
-# max-of-exponantials
+# max-of-exponentials
 Estimating Hₙ = 1 + ½ + … + 1/n in C++ using only random numbers
 
 
