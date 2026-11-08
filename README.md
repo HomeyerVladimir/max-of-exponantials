@@ -14,7 +14,8 @@ If X₁, …, Xₙ are i.i.d. Exp(1), then E(max((X1,..,Xn))) = Hₙ
 Coverage of 95% intervals over 2,000 runs: 95.7%.
 
 One run of the estimator for n = 100: the running mean wobbles widely at small N, then settles on the dashed line at H₁₀₀ = 5.18738 inside a 95% band that narrows as N grows from 10 to one million
-<img width="656" height="367" alt="image" src="https://github.com/user-attachments/assets/335b963a-fff5-497c-a6d4-dcb17ebc3e3f" />
+<img width="1267" height="627" alt="image" src="https://github.com/user-attachments/assets/d07f6673-9e9f-485f-8ee6-25fddca10f43" />
+
 
 
 
